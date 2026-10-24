@@ -1,0 +1,8 @@
+{
+  "name": "PoultryHealth Pro",
+  "description": "Manage medication schedules, diagnose diseases, and calculate dosage costs with automated follow-up reminders for efficient field sales visits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
